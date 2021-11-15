@@ -1,0 +1,17 @@
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\bin\Debug\netcoreapp2.1\FinalDesarrolloWebBM.deps.json
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\bin\Debug\netcoreapp2.1\FinalDesarrolloWebBM.runtimeconfig.json
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\bin\Debug\netcoreapp2.1\FinalDesarrolloWebBM.runtimeconfig.dev.json
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\bin\Debug\netcoreapp2.1\FinalDesarrolloWebBM.dll
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\bin\Debug\netcoreapp2.1\FinalDesarrolloWebBM.pdb
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\obj\Debug\netcoreapp2.1\FinalDesarrolloWebBM.csprojAssemblyReference.cache
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\obj\Debug\netcoreapp2.1\FinalDesarrolloWebBM.AssemblyInfoInputs.cache
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\obj\Debug\netcoreapp2.1\FinalDesarrolloWebBM.AssemblyInfo.cs
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\obj\Debug\netcoreapp2.1\FinalDesarrolloWebBM.csproj.CoreCompileInputs.cache
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\obj\Debug\netcoreapp2.1\FinalDesarrolloWebBM.RazorAssemblyInfo.cache
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\obj\Debug\netcoreapp2.1\FinalDesarrolloWebBM.RazorAssemblyInfo.cs
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\obj\Debug\netcoreapp2.1\FinalDesarrolloWebBM.RazorTargetAssemblyInfo.cache
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\obj\Debug\netcoreapp2.1\FinalDesarrolloWebBM.dll
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\obj\Debug\netcoreapp2.1\FinalDesarrolloWebBM.pdb
+C:\Users\bmont\source\repos\FinalDesarrolloWebBM\FinalDesarrolloWebBM\obj\Debug\netcoreapp2.1\FinalDesarrolloWebBM.genruntimeconfig.cache
